@@ -1,6 +1,6 @@
 # BMI Calculator
 
-A GUI-based BMI Calculator developed using Python and Tkinter.
+This project is a Python BMI calculator app that helps users compute BMI, categorize health status, store records in SQLite, and visualize trends over time.
 
 ## Features
 
